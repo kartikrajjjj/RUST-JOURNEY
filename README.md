@@ -27,4 +27,9 @@ Stay tuned as I go from `fn main()` to mastering memory safety and concurrency i
 
 ---
 
- Feel free to fork this repo or suggest ideas if you’re also learning Rust.
+Note: I'm a beginner in both **Rust** and **Git/GitHub**.
+
+ This repository is a learning space — so expect work-in-progress code, basic mistakes, and gradual improvements as I grow.  
+
+ **Feedback and suggestions are always welcome!**
+
