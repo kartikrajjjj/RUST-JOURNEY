@@ -36,6 +36,13 @@ I'll be adding:
 - Code samples for each topic
 - Reflections or key takeaways
 
-Day 1) -Learnt file and folder structure.
--Variables
--Immutability vs. Mutability
+## Day 1
+
+- **Code file:** [src/bin/day01.rs](./src/bin/day01.rs)
+
+### Concepts learned
+
+- Learnt file and folder structure
+- Hello world
+- Variables
+- Immutability vs. Mutability
