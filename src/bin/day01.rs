@@ -12,4 +12,9 @@ fn main() {
     println!("My age after 1 year: {age2}");
     age2 += 1; //value of age2 variable changed. It will show no error.
     println!("My age after 2 year: {age2}");
+
+    const X: i32 = 10; //datatype is set manually for const and its value is always immutable also we cannot declare const outside function/scope.
+
+    //value of const cannot be set while runtime.It has to be constant value.
+    println!("VALUE OF X: {X}");
 }
