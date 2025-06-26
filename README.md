@@ -10,16 +10,9 @@ This is where I document my step-by-step journey of learning the Rust programmin
 - Small projects.
 - Experiments with Rust features.
 
-##  Why I Started This
+## Why I Started This
 
 I'm learning Rust to prepare and master for blockchain development.
-
-## Progress Log
-
-I'll be adding:
-- Concepts I'm currently learning
-- Code samples for each topic
-- Reflections or key takeaways
 
 ## Let’s GO!!
 
@@ -29,7 +22,20 @@ Stay tuned as I go from `fn main()` to mastering memory safety and concurrency i
 
 Note: I'm a beginner in both **Rust** and **Git/GitHub**.
 
- This repository is a learning space — so expect work-in-progress code, basic mistakes, and gradual improvements as I grow.  
+This repository is a learning space — so expect work-in-progress code, basic mistakes, and gradual improvements as I grow.
 
- **Feedback and suggestions are always welcome!**
+**Feedback and suggestions are always welcome!**
 
+---
+
+## Progress Log
+
+I'll be adding:
+
+- Concepts I'm currently learning
+- Code samples for each topic
+- Reflections or key takeaways
+
+Day 1) -Learnt file and folder structure.
+-Variables
+-Immutability vs. Mutability
