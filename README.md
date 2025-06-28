@@ -38,7 +38,7 @@ I'll be adding:
 
 ## Day 1
 
-- **Code file:** [src/bin/day01.rs](./src/bin/day01.rs)
+- **Code file:** [src/bin/01_day01.rs](./src/bin/01_day01.rs)
 
 ### Concepts learned
 
@@ -47,3 +47,13 @@ I'll be adding:
 - Variables
 - Immutability vs. Mutability
   -Shadowing
+
+## Day 2
+
+- **Code file:** [src/bin/06_guessing_game.rs](./src/bin/06_guessing_game.rs)
+
+### CONCEPTS LEARNED
+
+- external crates
+  -loops
+  -error handling

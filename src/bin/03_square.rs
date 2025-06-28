@@ -6,4 +6,5 @@ fn main() {
 
     let num: i32 = buffer.trim().parse().expect("PLEASE TYPE VALID INTEGER!");
     println!("SQUARE OF THIS NUMBER IS: {} ", num * num);
+    //Taken input manually from user in this program
 }

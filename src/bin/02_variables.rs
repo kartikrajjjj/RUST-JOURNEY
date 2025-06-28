@@ -5,16 +5,16 @@ fn main() {
         "Day 1: Understanding file and folder structures along with mutability and immutability"
     );
     let age = 21; //immutable variable i.e. its value cannot be changed throughout the program
-    println!("My current age is: {age}");
+    println!("My current age is: {}", age);
     //if I reassign some other value to age variable it will show error
 
     let mut age2 = 22; //'mut' keyword makes variable mutable i.e. its value can be changed.
-    println!("My age after 1 year: {age2}");
+    println!("My age after 1 year: {}", age2);
     age2 += 1; //value of age2 variable changed. It will show no error.
     println!("My age after 2 year: {age2}");
 
-    const X: i32 = 10; //datatype is set manually for const and its value is always immutable also we cannot declare const outside function/scope.
+    const X: i32 = 10; //type usually specified explicitly for clarity.
 
-    //value of const cannot be set while runtime.It has to be constant value.
-    println!("VALUE OF X: {X}");
+    //A const value is embedded at compile time and never changes.
+    println!("VALUE OF X: {}", X);
 }
