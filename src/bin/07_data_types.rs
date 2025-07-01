@@ -23,7 +23,7 @@ fn main() {
     // ─── Strings ───
 
     let name: &str = "Kartik"; // string slice (read-only, fixed)
-    let mut message = String::from("Welcome"); // growable string (owned)
+    let message = String::from("Welcome"); // growable string (owned)
 
     // ─── Arrays ───
 
