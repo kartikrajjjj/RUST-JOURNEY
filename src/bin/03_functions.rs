@@ -32,9 +32,9 @@ fn add_with_return(x: i32, y: i32) -> i32 {
 // Checks if a number is even, returns true/false
 fn is_even(num: i32) -> bool {
     if num % 2 == 0 {
-        println!("NUMBER IS EVEN");
+        println!("{} IS EVEN", num);
         return true;
     }
-    println!("NUMBER IS NOT EVEN");
+    println!("{} IS NOT EVEN", num);
     false
 }
